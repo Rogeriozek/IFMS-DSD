@@ -8,3 +8,4 @@ O servidor quando executado, retorna uma mensagem escolhida aleatóriamente pelo
 
 O client por sua vez, faz uma conecção ao servidor e solicita uma mensagem do servidor.
 
+Todos os fontes se encontram dentro da pasta src.
